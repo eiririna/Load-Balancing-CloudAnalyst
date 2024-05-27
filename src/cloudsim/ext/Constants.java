@@ -83,6 +83,7 @@ public interface Constants {
 	final String BROKER_POLICY_DYNAMIC = "Reconfigure Dynamically with Load";
 	final String LOAD_BALANCE_ACTIVE = "Equally Spread Current Execution Load";
 	final String LOAD_BALANCE_THROTTLED = "Location Aware";
+	final String LOAD_BALANCE_HYBRID = "Hybrid (ESCE / Throttled)";
 
 	final String LOAD_BALANCE_POLICY_RR = "Round Robin";
 	final String LOAD_BALANCE_WRR = "Weighted Round Robin";

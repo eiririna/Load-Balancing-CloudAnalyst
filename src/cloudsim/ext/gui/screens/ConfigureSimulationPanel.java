@@ -437,6 +437,9 @@ public class ConfigureSimulationPanel extends JPanel
 				Constants.LOAD_BALANCE_WRR,
 				Constants.LOAD_BALANCE_ANT_COLONY,
 				Constants.LOAD_BALANCE_HONEY_COLONY,
+				Constants.LOAD_BALANCE_ACTIVE,
+				Constants.LOAD_BALANCE_THROTTLED,
+				Constants.LOAD_BALANCE_HYBRID,
 //				Constants.LOAD_BALANCE_PSO,
 				Constants.LOAD_BALANCE_THRESHOLD
 //				Constants.LOAD_BALANCE_SHORTEST_JOB_FIRST
